@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Contact Information</title>
+</head>
+<body>
+<ul>
+<li><a href="tel:+1.801.389.6720">Phone</a></li>
+<li><a href="mailto:bingbongfitness@gmail.com">Email</a></li>
+<li><a href="https://www.facebook.com/royogafit">Facebook</a></li>
+<li><a href="https://www.instagram.com/rosies_yoga/">Instagram</a></li>
+</ul>
+  
+</body>
+</html>
